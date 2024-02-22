@@ -79,7 +79,8 @@ make
 sudo make install
 ```
 
-![yosys](https://github.com/ajeethdani/ajeetkumarkdani/assets/114277218/7cee73b8-208b-423d-abe2-65676ff9b80d)
+![yosys]![2nd](https://github.com/Veena-04/veena/assets/145828292/1f27a32f-37c2-49d5-9082-cdb7b190b567)
+
 
 ### iVerilog
 
