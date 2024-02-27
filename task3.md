@@ -57,13 +57,6 @@ If the leafpad editor is opened without any errors then type the C code.**
 
 
 
-**Search for the Main and check the instructions of the C code execution. It has 15 instructions in the C execution**
-
-![checking instructions_in_main_C_Code_15_instructions]
-
-![checking instructions_in_main_C_Code_15_instructions_highlighted]
-
-
 **Step 4:**
 
 **riscv64-unknown-elf-gcc -Ofast -mabi=lp64 -march=rv64i -o sum1ton.o sum1ton.c**
