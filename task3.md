@@ -8,7 +8,8 @@ If the leafpad editor is opened without any errors then type the C code.**
 ****If the leafpad is not installed in ur machine then install by using the following command**
 
 **sudo snap install leafpad****
-![leafpad_install]![Uploading task3img1.jfif…]()
+![leafpad_install]![task3veena1](https://github.com/Veena-04/veena/assets/145828292/6a47a7d8-8894-423d-aa8c-2a6ed29a6fe0)
+
 
 ****Step 2: Writing the C code in the leafpad editor** using the following command
 
