@@ -22,12 +22,12 @@ If the leafpad editor is opened without any errors then type the C code.**
 **Step 4: Check for the errors by using the following command(compilation step)**
 
 **gcc sum1ton.c**
-![complie the C Code](https://github.com/Abdulbitm/Abdul/assets/160620896/982d5fe6-b150-4535-9611-8478a12165ae)
 
 **Step 5: Check the output by using the command**
 
 **./a.out**
-![C Code Execution with results ](https://github.com/Abdulbitm/Abdul/assets/160620896/07457616-fb58-4bb1-9c1f-dd32f256625b)
+![C Code Execution with results ]![task3veena3](https://github.com/Veena-04/veena/assets/145828292/330d1df8-1eb3-43d3-9fa5-5d52a484dd76)
+
 
 **The results will be displayed as** 
 
