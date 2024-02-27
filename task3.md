@@ -55,13 +55,13 @@ If the leafpad editor is opened without any errors then type the C code.**
 ![view the directory contents]![task3veena5](https://github.com/Veena-04/veena/assets/145828292/77a93534-e72c-4676-965f-aef7186cac94)
 
 
-![long directory content](https://github.com/Abdulbitm/Abdul/assets/160620896/3e2e473a-9f55-4bec-8ed3-4bd2732efbee)
+
 
 **Search for the Main and check the instructions of the C code execution. It has 15 instructions in the C execution**
 
-![checking instructions_in_main_C_Code_15_instructions](https://github.com/Abdulbitm/Abdul/assets/160620896/8d7d1502-a997-403d-a2cc-fcd459962a43)
+![checking instructions_in_main_C_Code_15_instructions]
 
-![checking instructions_in_main_C_Code_15_instructions_highlighted](https://github.com/Abdulbitm/Abdul/assets/160620896/0a07ba3e-4a3d-41a7-a158-3ef976ce0292)
+![checking instructions_in_main_C_Code_15_instructions_highlighted]
 
 
 **Step 4:**
@@ -72,7 +72,7 @@ If the leafpad editor is opened without any errors then type the C code.**
 
 
 
-![12 instructions with Ofast_1](https://github.com/Abdulbitm/Abdul/assets/160620896/4904feb4-c3ab-4337-976c-9a94bacbf85a)
+![12 instructions with Ofast_1]![task3veena7](https://github.com/Veena-04/veena/assets/145828292/5582ceaa-7e1f-4124-95e3-144c90bd6cd3)
 
 
 
