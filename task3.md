@@ -8,7 +8,7 @@ If the leafpad editor is opened without any errors then type the C code.**
 ****If the leafpad is not installed in ur machine then install by using the following command**
 
 **sudo snap install leafpad****
-![leafpad_install](https://github.com/Abdulbitm/Abdul/assets/160620896/a81bfafd-246c-44d5-85bf-2bf4092517d3)
+![leafpad_install]![Uploading task3img1.jfif…]()
 
 ****Step 2: Writing the C code in the leafpad editor** using the following command
 
