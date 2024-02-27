@@ -61,7 +61,7 @@ If the leafpad editor is opened without any errors then type the C code.**
 
 **riscv64-unknown-elf-gcc -Ofast -mabi=lp64 -march=rv64i -o sum1ton.o sum1ton.c**
 
-![12 instructions with Ofast](https://github.com/Abdulbitm/Abdul/assets/160620896/f2ebdc19-c3a6-494d-a25d-6d71c2811440)
+![12 instructions with Ofast]![IMG-20240227-WA0014](https://github.com/Veena-04/veena/assets/145828292/2fbf43e1-2c86-40e1-99f4-6687ba9e22d2)
 
 
 
