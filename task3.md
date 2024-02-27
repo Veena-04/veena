@@ -14,7 +14,8 @@ If the leafpad editor is opened without any errors then type the C code.**
 ****Step 2: Writing the C code in the leafpad editor** using the following command
 
 **leafpad sum1ton.c&**
-![Leafpad_editor](https://github.com/Abdulbitm/Abdul/assets/160620896/ed488618-98bb-4de7-85f3-8aff1329d465)
+![Leafpad_editor]![task3veena2](https://github.com/Veena-04/veena/assets/145828292/4b4e6e22-9408-4d73-b47a-202a50c8eef6)
+
 
 **Step 3: After writing the C code save the editor by Ctrl+s**
 
