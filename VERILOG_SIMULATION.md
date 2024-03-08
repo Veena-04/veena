@@ -14,7 +14,7 @@
 - **To clone the repository and download the netlist files for simulation, enter the following commands in your terminal.**
 
  ```
- $ git clone https://github.com/ajeethdani/ajeetkumarkdani
+ $ git clone https://github.com/Veena-04/veena
  $ cd Documents
  $ cd hello
 ```
